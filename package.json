@@ -5,4 +5,8 @@
   "main": "bot.py",
   "scripts": {
     "start": "python bot.py"
+  },
+  "dependencies": {
+    "discord.py": "0.16.12",s
+  }
 }
